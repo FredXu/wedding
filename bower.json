@@ -1,0 +1,18 @@
+{
+  "name": "wedding",
+  "version": "1.0.0",
+  "authors": [
+    "Pengyuan Xu"
+  ],
+  "dependencies": {
+    "jquery": "2.1.0",
+    "angular": "1.2.14"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
